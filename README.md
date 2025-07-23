@@ -48,11 +48,6 @@ This is a **Digital Clock** developed as a semester project for the **Digital Lo
 
 ---
 
-## 🖼️ Screenshots
-
-> Include simulation screenshots from Proteus and photos of the working hardware if available.
-
----
 
 ## 🧪 How to Simulate in Proteus
 
